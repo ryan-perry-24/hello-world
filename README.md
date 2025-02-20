@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Hello, My name is Ryan Perry, a junior studying business analytics & marketing at The University of Iowa.
