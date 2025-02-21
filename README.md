@@ -11,4 +11,4 @@ This assignment is supposed to help us build our github account through practice
 First, we ~~make~~ create a GitHub Account & make it all fancy with details about us. **Add details like __name, major, grade, and a headshot_.** Next, add the hello world & make new repository. Last Update the ReadMe file. 
 
 # Additional Documentation 
-We used <ins> NO </ins> Extra documents. 
+We used <ins>NO</ins> Extra documents. 
